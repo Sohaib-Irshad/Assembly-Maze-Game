@@ -117,7 +117,7 @@ Add gameplay screenshots here.
 
 ### Main Game Screen
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/Screenshot 2026-05-10 192343.png)
 
 ---
 
